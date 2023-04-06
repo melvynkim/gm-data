@@ -118,5 +118,203 @@
       "title": "Tesla",
       "subtitle": "Electric Vehicles",
       "categories": ["Automotive", "Energy", "Technology"]
-    }  
+    },
+    {
+      "image": "https://logo.clearbit.com/spotify.com",
+      "title": "Spotify",
+      "subtitle": "Music Streaming Service",
+      "categories": ["Media", "Entertainment"]
+    },
+    {
+      "image": "https://logo.clearbit.com/pinterest.com",
+      "title": "Pinterest",
+      "subtitle": "Social Media",
+      "categories": ["Social", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/linkedin.com",
+      "title": "LinkedIn",
+      "subtitle": "Professional Networking",
+      "categories": ["Social", "Professional"]
+    },
+    {
+      "image": "https://logo.clearbit.com/paypal.com",
+      "title": "PayPal",
+      "subtitle": "Online Payment System",
+      "categories": ["Finance", "E-commerce"]
+    },
+    {
+      "image": "https://logo.clearbit.com/square.com",
+      "title": "Square",
+      "subtitle": "Payment and Financial Services",
+      "categories": ["Finance", "E-commerce"]
+    },
+    {
+      "image": "https://logo.clearbit.com/stackoverflow.com",
+      "title": "Stack Overflow",
+      "subtitle": "Programming Q&A",
+      "categories": ["Programming", "Education"]
+    },
+    {
+      "image": "https://logo.clearbit.com/godaddy.com",
+      "title": "GoDaddy",
+      "subtitle": "Domain Registrar",
+      "categories": ["Internet", "E-commerce"]
+    },
+    {
+      "image": "https://logo.clearbit.com/slack.com",
+      "title": "Slack",
+      "subtitle": "Team Communication",
+      "categories": ["Collaboration", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/medium.com",
+      "title": "Medium",
+      "subtitle": "Publishing Platform",
+      "categories": ["Media", "Writing"]
+    },
+    {
+      "image": "https://logo.clearbit.com/wordpress.com",
+      "title": "WordPress",
+      "subtitle": "Content Management System",
+      "categories": ["Web Development", "Blogging"]
+    },
+    {
+      "image": "https://logo.clearbit.com/tiktok.com",
+      "title": "TikTok",
+      "subtitle": "Short-Form Video",
+      "categories": ["Social", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/discord.com",
+      "title": "Discord",
+      "subtitle": "Voice and Text Chat",
+      "categories": ["Gaming", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/salesforce.com",
+      "title": "Salesforce",
+      "subtitle": "Customer Relationship Management",
+      "categories": ["Cloud", "Enterprise", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/shopify.com",
+      "title": "Shopify",
+      "subtitle": "E-commerce Platform",
+      "categories": ["E-commerce", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/wordpress.com",
+      "title": "WordPress",
+      "subtitle": "Content Management System",
+      "categories": ["Web Development", "Blogging"]
+    },
+    {
+      "image": "https://logo.clearbit.com/zoominfo.com",
+      "title": "ZoomInfo",
+      "subtitle": "B2B Database",
+      "categories": ["Marketing", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/flickr.com",
+      "title": "Flickr",
+      "subtitle": "Photo Sharing",
+      "categories": ["Photography", "Social"]
+    },
+    {
+      "image": "https://logo.clearbit.com/etsy.com",
+      "title": "Etsy",
+      "subtitle": "Handmade and Vintage Marketplace",
+      "categories": ["E-commerce", "Crafts"]
+    },
+    {
+      "image": "https://logo.clearbit.com/yelp.com",
+      "title": "Yelp",
+      "subtitle": "Local Business Reviews",
+      "categories": ["Local", "Reviews"]
+    },
+    {
+      "image": "https://logo.clearbit.com/box.com",
+      "title": "Box",
+      "subtitle": "Cloud Content Management",
+      "categories": ["Cloud", "Enterprise", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/spotify.com",
+      "title": "Spotify",
+      "subtitle": "Music Streaming Service",
+      "categories": ["Media", "Entertainment"]
+    },
+    {
+      "image": "https://logo.clearbit.com/bing.com",
+      "title": "Bing",
+      "subtitle": "Search Engine",
+      "categories": ["Search", "Ads"]
+    },
+    {
+      "image": "https://logo.clearbit.com/quickbooks.com",
+      "title": "QuickBooks",
+      "subtitle": "Accounting Software",
+      "categories": ["Finance", "Small Business"]
+    },
+    {
+      "image": "https://logo.clearbit.com/venmo.com",
+      "title": "Venmo",
+      "subtitle": "Mobile Payment Service",
+      "categories": ["Finance", "Mobile"]
+    },
+    {
+      "image": "https://logo.clearbit.com/cisco.com",
+      "title": "Cisco",
+      "subtitle": "Networking Equipment",
+      "categories": ["Hardware", "Enterprise"]
+    },
+    {
+      "image": "https://logo.clearbit.com/wikipedia.org",
+      "title": "Wikipedia",
+      "subtitle": "Online Encyclopedia",
+      "categories": ["Education", "Information"]
+    },
+    {
+      "image": "https://logo.clearbit.com/waze.com",
+      "title": "Waze",
+      "subtitle": "GPS Navigation",
+      "categories": ["Navigation", "Mobile"]
+    },
+    {
+      "image": "https://logo.clearbit.com/duckduckgo.com",
+      "title": "DuckDuckGo",
+      "subtitle": "Search Engine",
+      "categories": ["Search", "Privacy"]
+    },
+    {
+      "image": "https://logo.clearbit.com/box.com",
+      "title": "Box",
+      "subtitle": "Cloud Content Management",
+      "categories": ["Cloud", "Enterprise", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/medium.com",
+      "title": "Medium",
+      "subtitle": "Publishing Platform",
+      "categories": ["Media", "Writing"]
+    },
+    {
+      "image": "https://logo.clearbit.com/udemy.com",
+      "title": "Udemy",
+      "subtitle": "Online Learning",
+      "categories": ["Education", "Online Learning"]
+    },
+    {
+      "image": "https://logo.clearbit.com/slack.com",
+      "title": "Slack",
+      "subtitle": "Team Communication",
+      "categories": ["Collaboration", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/adobe.com",
+      "title": "Adobe",
+      "subtitle": "Software Company",
+      "categories": ["Software", "Design"]
+    }    
   ]
