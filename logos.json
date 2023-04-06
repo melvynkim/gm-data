@@ -1,0 +1,122 @@
+[
+    {
+      "image": "https://logo.clearbit.com/google.com",
+      "title": "Google",
+      "subtitle": "Search Engine",
+      "categories": ["Search", "Ads", "Cloud"]
+    },
+    {
+      "image": "https://logo.clearbit.com/amazon.com",
+      "title": "Amazon",
+      "subtitle": "Online Retailer",
+      "categories": ["Retail", "Cloud", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/apple.com",
+      "title": "Apple",
+      "subtitle": "Consumer Electronics",
+      "categories": ["Hardware", "Software", "Services"]
+    },
+    {
+      "image": "https://logo.clearbit.com/twitter.com",
+      "title": "Twitter",
+      "subtitle": "Social Media",
+      "categories": ["Social", "Ads", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/mozilla.org",
+      "title": "Mozilla Firefox",
+      "subtitle": "Web Browser",
+      "categories": ["Browser", "Privacy", "Open Source"]
+    },
+    {
+      "image": "https://logo.clearbit.com/microsoft.com",
+      "title": "Microsoft",
+      "subtitle": "Technology Company",
+      "categories": ["Hardware", "Software", "Cloud"]
+    },
+    {
+      "image": "https://logo.clearbit.com/tesla.com",
+      "title": "Tesla",
+      "subtitle": "Electric Vehicles",
+      "categories": ["Automotive", "Energy", "Technology"]
+    },
+    {
+      "image": "https://logo.clearbit.com/netflix.com",
+      "title": "Netflix",
+      "subtitle": "Streaming Service",
+      "categories": ["Media", "Entertainment"]
+    },
+    {
+      "image": "https://logo.clearbit.com/airbnb.com",
+      "title": "Airbnb",
+      "subtitle": "Hospitality Service",
+      "categories": ["Travel", "Hospitality"]
+    },
+    {
+      "image": "https://logo.clearbit.com/uber.com",
+      "title": "Uber",
+      "subtitle": "Ridesharing Service",
+      "categories": ["Transportation", "Technology"]
+    },
+    {
+      "image": "https://logo.clearbit.com/facebook.com",
+      "title": "Facebook",
+      "subtitle": "Social Media",
+      "categories": ["Social", "Ads", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/ibm.com",
+      "title": "IBM",
+      "subtitle": "Technology Company",
+      "categories": ["Hardware", "Software", "Cloud"]
+    },
+    {
+      "image": "https://logo.clearbit.com/spotify.com",
+      "title": "Spotify",
+      "subtitle": "Music Streaming Service",
+      "categories": ["Media", "Entertainment"]
+    },
+    {
+      "image": "https://logo.clearbit.com/alphabet.com",
+      "title": "Alphabet",
+      "subtitle": "Technology Conglomerate",
+      "categories": ["Search", "Ads", "Cloud"]
+    },
+    {
+      "image": "https://logo.clearbit.com/tesla.com",
+      "title": "Tesla",
+      "subtitle": "Electric Vehicles",
+      "categories": ["Automotive", "Energy", "Technology"]
+    },
+    {
+      "image": "https://logo.clearbit.com/salesforce.com",
+      "title": "Salesforce",
+      "subtitle": "Customer Relationship Management",
+      "categories": ["Cloud", "Enterprise", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/zoom.us",
+      "title": "Zoom",
+      "subtitle": "Video Conferencing",
+      "categories": ["Collaboration", "Software"]
+    },
+    {
+      "image": "https://logo.clearbit.com/airbnb.com",
+      "title": "Airbnb",
+      "subtitle": "Hospitality Service",
+      "categories": ["Travel", "Hospitality"]
+    },
+    {
+      "image": "https://logo.clearbit.com/pinterest.com",
+      "title": "Pinterest",
+      "subtitle": "Social Media",
+      "categories": ["Social", "Media"]
+    },
+    {
+      "image": "https://logo.clearbit.com/tesla.com",
+      "title": "Tesla",
+      "subtitle": "Electric Vehicles",
+      "categories": ["Automotive", "Energy", "Technology"]
+    }  
+  ]
