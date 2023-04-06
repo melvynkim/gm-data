@@ -60,12 +60,6 @@
       "categories": ["Transportation", "Technology"]
     },
     {
-      "image": "https://logo.clearbit.com/facebook.com",
-      "title": "Facebook",
-      "subtitle": "Social Media",
-      "categories": ["Social", "Ads", "Media"]
-    },
-    {
       "image": "https://logo.clearbit.com/ibm.com",
       "title": "IBM",
       "subtitle": "Technology Company",
@@ -286,12 +280,6 @@
       "title": "DuckDuckGo",
       "subtitle": "Search Engine",
       "categories": ["Search", "Privacy"]
-    },
-    {
-      "image": "https://logo.clearbit.com/box.com",
-      "title": "Box",
-      "subtitle": "Cloud Content Management",
-      "categories": ["Cloud", "Enterprise", "Software"]
     },
     {
       "image": "https://logo.clearbit.com/medium.com",
